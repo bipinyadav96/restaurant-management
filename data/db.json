@@ -1,0 +1,90 @@
+{
+  "users": [
+    {
+      "email": "bjyadav15@gmail.com",
+      "name": "Bipin Yadav",
+      "password": "123456",
+      "id": 1
+    },
+    {
+      "name": "Sumit",
+      "email": "sumit@gmail.com",
+      "password": "sumit",
+      "id": 2
+    },
+    {
+      "name": "Anjali",
+      "email": "anjali@gmail.com",
+      "password": "anjali",
+      "id": 3
+    },
+    {
+      "name": "saakshi",
+      "email": "sy@gmail.com",
+      "password": "saakshi",
+      "id": 4
+    },
+    {
+      "name": "Geeta",
+      "email": "gy@gmail.com",
+      "password": "geeta",
+      "id": 5
+    },
+    {
+      "name": "Prakash",
+      "email": "prakash@gmail.com",
+      "password": "prakash",
+      "id": 6
+    },
+    {
+      "name": "John Doe",
+      "email": "john@gmail.com",
+      "password": "John",
+      "id": 7
+    },
+    {
+      "name": "bipin ",
+      "email": "by@gmail.com",
+      "password": "123456",
+      "id": 8
+    },
+    {
+      "email": "bjyadav15@gmail.com",
+      "name": "Bipin Yadav",
+      "password": "123456",
+      "id": 9
+    },
+    {
+      "name": "Anonymous",
+      "email": "any@gmail.com",
+      "password": "any",
+      "id": 10
+    },
+    {
+      "name": "Shiva",
+      "email": "shiva@gmail.com",
+      "password": "123456",
+      "id": 11
+    }
+  ],
+  "restaurants": [
+    {
+      "id": 1,
+      "name": "KC",
+      "address": "Mumbai",
+      "contact": "9874561230"
+    },
+    {
+      "id": 2,
+      "name": "Dominos",
+      "address": "Mumbai",
+      "contact": "9874561230"
+    },
+    {
+      "id": 3,
+      "name": "Mac Donalds",
+      "address": "Mumbai",
+      "contact": "9874561230"
+    }
+  ]
+}
